@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Nick la noche y el día</string>
+    <string name="description1">El héroe del Jetpack</string>
+    <string name="hero2">Protector de la realidad</string>
+    <string name="description2">Entiende la verdad absoluta</string>
+    <string name="hero3">André el gigante</string>
+    <string name="description3">Imita la luz y la noche para mezclarse.</string>
+    <string name="hero4">Benjamín el valiente</string>
+    <string name="description4">Aprovecha el poder del canario para desarrollarse con valentía</string>
+    <string name="hero5">El Magnífico Maru</string>
+    <string name="description5">Se desliza sin esfuerzo para salvar el día.</string>
+    <string name="hero6">Yasmina la dinámica</string>
+    <string name="description6">Capacidad para cambiar a cualquier forma y energizarse</string>
+</resources>
